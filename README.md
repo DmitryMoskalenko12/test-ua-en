@@ -1,4 +1,4 @@
-# [Ga](https://galexpres.com/) Landing Page
+# Landing Page Galexpres
 
 ## Project Overview
 This project is a landing page for **https://galexpres.com/**. It is a responsive and interactive website built using modern web technologies, including **HTML**, **JavaScript**, and **SCSS**. The landing page is available in two languages: **Ukrainian** and **English**.
@@ -48,7 +48,7 @@ This project is a landing page for **https://galexpres.com/**. It is a responsiv
 
 ## Build Scripts
 
-   Builds the project in development mode:
+2. Builds the project in development mode:
    npm run build-dev
    Production build: 
    npm run build-prod
@@ -57,7 +57,7 @@ This project is a landing page for **https://galexpres.com/**. It is a responsiv
 
 ## Folder Structure
 
-galexpres.com/
+3. galexpres.com/
 │
 ├── dist/                   # Production build output
 ├── src/                    # Source files
