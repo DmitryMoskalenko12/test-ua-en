@@ -59,6 +59,7 @@ This project is a landing page for **https://galexpres.com/**. It is a responsiv
 ## Folder Structure
 
 3. galexpres.com/
+```
 │
 ├── dist/                   # Production build output
 ├── src/                    # Source files
@@ -71,7 +72,7 @@ This project is a landing page for **https://galexpres.com/**. It is a responsiv
 │   ├── modules/            # JavaScript files
 ├── webpack.config.js       # Webpack configuration
 └── package.json            # Project metadata and dependencies
-
+```
 ## License
 
 This version contains all details in a continuous format for better readability without breaking them into separate sections. Let me know if you need further adjustments!
