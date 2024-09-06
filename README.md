@@ -59,7 +59,6 @@ This project is a landing page for **https://galexpres.com/**. It is a responsiv
 ## Folder Structure
 
 3. galexpres.com/
-   ```bash
 │
 ├── dist/                   # Production build output
 ├── src/                    # Source files
