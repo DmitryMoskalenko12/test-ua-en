@@ -49,6 +49,7 @@ This project is a landing page for **https://galexpres.com/**. It is a responsiv
 ## Build Scripts
 
 2. Builds the project in development mode:
+   ```bash
    npm run build-dev
    Production build: 
    npm run build-prod
@@ -58,6 +59,7 @@ This project is a landing page for **https://galexpres.com/**. It is a responsiv
 ## Folder Structure
 
 3. galexpres.com/
+   ```bash
 │
 ├── dist/                   # Production build output
 ├── src/                    # Source files
